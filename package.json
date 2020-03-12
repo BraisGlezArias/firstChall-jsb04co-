@@ -1,0 +1,24 @@
+{
+  "name": "firstchall-jsb04co",
+  "version": "1.0.0",
+  "description": "Assessment I correspondiente al 4º Curso Intensivo de Programación Full Stack de Hack-a-Bos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server 'www' --files 'www'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/BraisGlezArias/firstchall-jsb04co.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/BraisGlezArias/firstchall-jsb04co/issues"
+  },
+  "homepage": "https://gitlab.com/BraisGlezArias/firstchall-jsb04co#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
